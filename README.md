@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mostafa
 - 👀 I’m interested in Linux, Python, Nim, Telecom, Webscraping, Data Engineering, Automation
-- 🌱 I’m currently learning Nim, Telecom, Linux system programming
-- 💞️ I’m looking to collaborate on opensource projects and softwares, supporting and development.
+- 🌱 I’m currently learning Nim, Linux system programming, Django
+- 💞️ I’m looking forward to collaborate on opensource projects 
 - 📫 Hesariam@gmail.com
 
 <!---
