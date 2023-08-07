@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Mostafa
-- 👀 I’m interested in Linux, Python, Nim, Telecom, Webscraping, Data Engineering, Automation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking forward to collaborate on opensource projects 
-- 📫 Hesariam@gmail.com
+- 👀 I’m interested in Linux, Python, Nim, Telecom, Webscraping, Data Engineering, Automation 
 
 <!---
 hesariam/hesariam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
